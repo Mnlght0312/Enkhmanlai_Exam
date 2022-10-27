@@ -55,7 +55,7 @@
     color: blue;
 }
 .section-background-img {
-    background: url(/image\ 1.png);
+    background: url(image\ 1.png);
     width: 1920px;
     height: 1080px;
     position: relative;
